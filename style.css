@@ -1,0 +1,61 @@
+/*
+Theme Name: coporate
+Theme URI: https://wordpress.org/themes/coporate
+Author: the WordPress team
+Author URI: https://www.eaglevisionit.com/
+Description: This is desription
+Requires at least: 6.1
+Tested up to: 6.1
+Requires PHP: 5.6
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Text Domain: corporate
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready, wide-blocks, block-styles, accessibility-ready, blog, portfolio, news
+*/
+.blog-gap0{
+margin-bottom: 0px;
+margin-top: 0px;
+}
+
+.contact-form-7 {
+    text-align: center;
+}
+
+.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.select-items,  .wpcf7-text{
+    width: 35%;
+    font-size: 16px;
+    height: 40px;
+    margin-bottom: 20px;
+}
+.wpcf7-textarea{
+    width: 35%;
+    font-size: 16px;
+    height: 80px;
+    margin-bottom: 20px;
+}
+.wpcf7-submit{
+    padding:10px;
+    width:10rem;
+    color: white;
+    font-size: 16px;
+    height: 50px;
+    background-color: #2B9DFF;
+}
+.page-list-footer,.submenu-container{
+    padding-left: 0px;
+    list-style-type:none;
+    color: white;
+    
+}
+a{
+    text-decoration:none;
+}
+.unorder-list-html{
+    padding-left: 0px;
+}
+.footer-list{
+    list-style-type:"✔ ";
+    padding-left: 20px;
+}
+
